@@ -1,0 +1,56 @@
+
+
+.App{
+  max-width: 500px;
+  font-family: 'Inter', sans-serif;
+  background-color: #4D436B;
+  padding: 40px;
+  display:flex;
+  flex-direction: column;
+  text-align: center;
+}
+.dev-name {
+  color: white
+}
+
+.footer{
+  margin-top:50px;
+  margin-bottom:20px;
+  display:flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  background-color: #5B3DB8;
+  width: 100%;
+  padding:Opx!important;
+  color: black;
+}
+.socialmedia-image{
+  filter: grayscale(100%);
+}
+
+.card-rule{
+  margin-left: 20%;
+  background-color: #5B3DB8;
+  padding: 30px;
+  width:250px;
+  border-radius:10px;
+  color: white;
+}
+.main-button{
+  background-color:#35236B;
+  color:white;
+  padding: 5px ;
+  box-shadow: 0.5px 0.5px #35236B ;
+  border-radius: 8px;
+}
+.main-button>a{
+  text-decoration: none!important;
+  color:white;
+  font-family: Inter;
+  font-weight: 600;
+
+}
+
+.photo-perso{
+  border-radius: 10px;
+}
